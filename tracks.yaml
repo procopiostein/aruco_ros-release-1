@@ -1,4 +1,3 @@
-!!python/unicode 'release_repo_url': https://github.com/procopiostein/aruco_ros-release-1.git
 tracks:
   indigo:
     actions:

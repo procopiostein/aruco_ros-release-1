@@ -9,7 +9,7 @@ These packages were released:
 
 Version of package(s) in repository `aruco_ros`:
 - upstream repository: https://github.com/pal-robotics/aruco_ros.git
-- release repository: https://github.com/bmagyar/aruco_ros-release.git
+- release repository: https://github.com/pal-gbp/aruco_ros-release.git
 - rosdistro version: `0.1.0-0`
 - old version: `0.1.0-0`
 - new version: `0.2.0-0`
